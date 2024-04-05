@@ -1,0 +1,7 @@
+README.md
+setup.py
+blackjack.egg-info/PKG-INFO
+blackjack.egg-info/SOURCES.txt
+blackjack.egg-info/dependency_links.txt
+blackjack.egg-info/requires.txt
+blackjack.egg-info/top_level.txt
